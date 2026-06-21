@@ -99,11 +99,12 @@ This repository contains 4 advanced tasks completed as part of Phase 2 of the AI
 
 ```
 DevelopersHub-ML-Internship-Phase-2/
+├── LICENSE
+├── README.md
 ├── task1.py
 ├── task2.py
 ├── task3.py
 ├── task4.py
-└── README.md
 ```
 
 ---
